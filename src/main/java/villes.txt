@@ -1,0 +1,6 @@
+1;Bordeaux;33000;France
+2;Toulouse;31000;France
+3;Agen;47000;France
+5;BordeauxChangeName;33200;France
+6;BordeauxChangeName;33200;France
+7;BordeauxChangeName;33200;France
